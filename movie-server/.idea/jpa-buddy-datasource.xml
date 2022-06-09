@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="bb9b9bf4-ef51-4687-9486-ee38bbeab9a8" name="my_app" url="jdbc:mysql://192.168.86.25:3306/my_app?enabledTLSProtocols=TLSv1.2" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
